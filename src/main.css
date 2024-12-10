@@ -1,0 +1,77 @@
+@import url("/src/global.css");
+@import url("/src/mobile.css");
+
+/*Header*/
+header{
+	width: 100%;
+	height: 160px;
+}
+.headerContainer{
+	width: 100%;
+	height: 100%;
+}
+.topContainer{
+	background: #273051;
+	width: 100%;
+	height: 90px;
+	color: white;
+}
+.topHeader{
+	width: 1450px;
+	height: 100%;
+}
+.bottomContainer{
+	background: #FFFFFF;
+	width: 100%;
+	height: 70px;
+	font-family: "Montserrat";
+	border-bottom: 1px solid #999999;
+}
+.bottomHeader{
+	width: 1450px;
+	height: 70px;
+}
+.bottomHeader ul li a{
+	transition: all 0.3s ease;
+	color: #3C3950;
+	padding: 35px 15px;
+}
+.bottomHeader ul li a:hover{
+	transition: all 0.3s ease;
+	color: orangered;
+}
+
+.greenBtn{
+	transition: all 0.3s ease;
+	background: #B6BD39;
+	border-radius: 5px;
+	color: white;
+	padding: 10px 20px;
+}
+.greenBtn:hover{
+	transition: all 0.3s ease;
+	background: #ced542;
+}
+.orangeBtn{
+	transition: all 0.3s ease;
+	background: #FFC001;
+	border-radius: 5px;
+	color: black;
+	padding: 10px 20px;
+}
+.orangeBtn:hover{
+	transition: all 0.3s ease;
+	background: #fcd561;
+}
+/*Header End*/
+
+
+
+/*footer*/
+footer{
+	width: 100%;
+	height: 100%;
+	background: #363C4D;
+	color: white;
+}
+/*footer end*/

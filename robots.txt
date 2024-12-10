@@ -1,0 +1,13 @@
+User-agent: *
+
+Allow: /
+
+Allow: /index
+
+Allow: /hakkimizda
+
+Allow: /online-kayit-formu
+
+Allow: /kamplarimiz
+
+Allow: /sitemap.xml
